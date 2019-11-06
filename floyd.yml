@@ -1,0 +1,5 @@
+env: Python 3
+machine: cpu
+data:
+  - source: https://www.kaggle.com/uciml/iris
+    destination: kaggle
