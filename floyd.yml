@@ -1,5 +1,5 @@
-env: Python 3
-machine: cpu
+env: tensorflow-1.14
+machine: gpu
 data:
-  - source: https://www.kaggle.com/uciml/iris
-    destination: kaggle
+  - source: https://www.floydhub.com/farahghan/datasets/iris
+    destination: UCI Machine Learning Repository
