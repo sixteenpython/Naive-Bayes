@@ -1,5 +1,5 @@
 env: tensorflow-1.14
-machine: gpu
+machine: cpu
 data:
-  - source: https://www.floydhub.com/farahghan/datasets/iris
-    destination: UCI Machine Learning Repository
+  - source: farahghan/datasets/iris
+    destination: iris
